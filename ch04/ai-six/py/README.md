@@ -16,7 +16,7 @@ We will use a shared virtual environment for all Python components.
 ## Create virtual environment and activate it
 
 ```shell
-python -m venv venv --prompt ai6
+python3 -m venv venv --prompt ai6
 source venv/bin/activate
 ```
 
